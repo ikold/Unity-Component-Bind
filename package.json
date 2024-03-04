@@ -1,0 +1,15 @@
+{
+  "name": "com.ikold.component-bind",
+  "version": "0.0.1",
+  "displayName": "Component Bind",
+  "description": "Provides ComponentBind attribute that can be used on the fields in mono behaviours to have editor set it value without the need to do it manually.",
+  "unity": "2021.1",
+  "keywords": [
+    "Attribute"
+  ],
+  "author": {
+    "name": "Jakub Kozlowicz",
+    "email": "jakubkozlowicz10@gmail.com",
+    "url": "https://github.com/ikold"
+  }
+}
