@@ -1,4 +1,4 @@
-# Unity-Extended-Dicionary
+# Unity-Component-Bind
 Unity Package that provides automatic binding of component fields in MonoBehaviours.
 
 ### Setup
